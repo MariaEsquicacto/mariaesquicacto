@@ -1,5 +1,6 @@
 ### Olá! Eu sou a Maria Clara 👋.
 Estudo no SENAI e estou dando os primeiros passos no mundo da programação, dedicando-me ao aprendizado de novas tecnologias e conceitos fundamentais para o desenvolvimento de software. 
+
 Sou movida pela curiosidade e pelo desejo constante de evoluir, buscando sempre novos desafios e oportunidades que me permitam aprimorar minhas habilidades. Com determinação e foco, estou trilhando meu caminho para alcançar meus objetivos na área, comprometida em construir uma carreira sólida e contribuir com soluções inovadoras no universo da tecnologia.
 
 
