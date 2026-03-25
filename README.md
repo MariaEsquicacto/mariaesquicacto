@@ -1,12 +1,12 @@
 👋 Olá! Eu sou a Maria Clara  
 
-Desenvolvedora Front-end dedicada à criação de interfaces modernas, responsivas e intuitivas, priorizando qualidade visual, acessibilidade e excelência na experiência do usuário. Atualmente curso o Técnico em Desenvolvimento de Sistemas pelo SENAI.
+Desenvolvedora Front-end dedicada à criação de interfaces modernas, responsivas e intuitivas, priorizando qualidade visual, acessibilidade e excelência na experiência do usuário. Atualmente curso Análise e Desenvolviemto de Sistemas pela UNOESTE.
 
 ---
 
 🚀 Sobre mim  
 
-Sou uma Desenvolvedora Web com foco em Front-end, especializada em **JavaScript, React, React Native, HTML e CSS**.  
+Sou uma Desenvolvedora Web com foco em Front-end e mobile, especializada em **JavaScript, React, React Native, HTML e CSS**.  
 Possuo também conhecimentos sólidos em **PHP, Python, MySQL e FastAPI**, o que me permite compreender o funcionamento completo das aplicações e colaborar de forma mais eficiente no desenvolvimento de soluções.
 
 Sou movida pelo aprendizado contínuo, curiosidade e vontade de transformar ideias em projetos reais. Busco desafios que me ajudem a evoluir tecnicamente e a construir uma trajetória sólida na área de tecnologia.
@@ -22,6 +22,7 @@ Meu objetivo é crescer profissionalmente como desenvolvedora, adquirindo experi
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="center" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img align="center" alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
 
 ---
 
