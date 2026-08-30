@@ -19,40 +19,31 @@ Meu objetivo é crescer profissionalmente como desenvolvedora, adquirindo experi
 
 * Técnico em Desenvolvimento de Sistemas – SENAI (2024–2025)
 * Análise e Desenvolvimento de Sistemas – UNOESTE (início 01/2026)
-
+  
 ---
 
 ### 🧠 Tecnologias & Ferramentas
 
-#### 🌐 Front-end & Mobile
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</div>
-
-#### ⚙️ Back-end
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</div>
+#### 🛠️ Back-end
+<p>
+  <img src="https://skillicons.dev/icons?i=php,python,fastapi,c" />
+</p>
 
 #### 🗄️ Database
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/MySQL-%2300000F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-#### 📊 Business Intelligence & Dados
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-</div>
+#### 🌐 Front-end & Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,bootstrap" />
+</p>
+
+#### 📊 Dados & Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=excel,powerbi" />
+</p>
+
 ---
 
 📬 **Contato**  
