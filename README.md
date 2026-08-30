@@ -6,7 +6,7 @@ Desenvolvedora Front-end dedicada à criação de interfaces modernas, responsiv
 
 🚀 Sobre mim  
 
-Sou uma Desenvolvedora Web com foco em Front-end e mobile, especializada em **JavaScript, React, React Native, HTML e CSS**.  
+Sou uma Desenvolvedora Web com foco em Front-end e mobile, especializada em **JavaScript, React, React Native, Flutter, HTML e CSS**.  
 Possuo também conhecimentos sólidos em **PHP, Python, MySQL e FastAPI**, o que me permite compreender o funcionamento completo das aplicações e colaborar de forma mais eficiente no desenvolvimento de soluções.
 
 Sou movida pelo aprendizado contínuo, curiosidade e vontade de transformar ideias em projetos reais. Busco desafios que me ajudem a evoluir tecnicamente e a construir uma trajetória sólida na área de tecnologia.
