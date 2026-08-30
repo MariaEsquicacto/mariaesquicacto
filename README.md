@@ -24,6 +24,11 @@ Meu objetivo é crescer profissionalmente como desenvolvedora, adquirindo experi
 
 ### 🧠 Tecnologias & Ferramentas
 
+#### 🌐 Front-end & Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,bootstrap" />
+</p>
+
 #### 🛠️ Back-end
 <p>
   <img src="https://skillicons.dev/icons?i=php,python,fastapi,c" />
@@ -32,16 +37,6 @@ Meu objetivo é crescer profissionalmente como desenvolvedora, adquirindo experi
 #### 🗄️ Database
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-#### 🌐 Front-end & Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,bootstrap" />
-</p>
-
-#### 📊 Dados & Ferramentas
-<p>
-  <img src="https://skillicons.dev/icons?i=excel,powerbi" />
 </p>
 
 ---
